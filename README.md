@@ -4,8 +4,6 @@
 
 ## Tasks
 
----
-
 ### 1. Fix the errors in the Console window
 
 I instantly tackled this one when I first opened the project. It wasn't particularly difficult and I managed to find the force crash and remove it as well as fix all the issues in the console quickly.
